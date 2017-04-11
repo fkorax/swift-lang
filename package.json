@@ -1,0 +1,13 @@
+{
+    "name": "atpc.swift-lang.git",
+    "title": "Swift Language Support",
+    "description": "Adds support for Apple's Swift language to Brackets.",
+    "homepage": "https://github.com/atpc/swift-lang",
+    "version": "1.0.0",
+    "author": "ATPC <contact@atpc.one> (http://atpc.one)",
+    "license": "AGPL v3",
+    "keywords": [ "swift", "syntax", "highlighting", "highlight", "code", "apple" ],
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
